@@ -1,0 +1,7 @@
+##Untrrack folders
+venv/
+__pycache__/
+.idea/**
+temp/**
+**/.DS_Store
+NAP.egg-info/**

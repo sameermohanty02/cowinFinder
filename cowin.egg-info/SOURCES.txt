@@ -1,0 +1,7 @@
+setup.py
+cowin.egg-info/PKG-INFO
+cowin.egg-info/SOURCES.txt
+cowin.egg-info/dependency_links.txt
+cowin.egg-info/entry_points.txt
+cowin.egg-info/requires.txt
+cowin.egg-info/top_level.txt
