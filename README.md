@@ -4,9 +4,13 @@ This tool will work irrespective of the Operating system.
 ## Prerequisite:
 Installation of python.
 
-Steps to install python\
-https://www.youtube.com/watch?v=UvcQlPZ8ecA - For windows
-https://www.youtube.com/watch?v=Br2xt6B57SA - For Linux
+Steps to install python
+
+For windows:\
+https://www.youtube.com/watch?v=UvcQlPZ8ecA 
+
+For Linux:\
+https://www.youtube.com/watch?v=Br2xt6B57SA 
 ##Installation of Cowin Finder:
 clone the git repo:
 ```text
