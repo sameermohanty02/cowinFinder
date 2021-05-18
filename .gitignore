@@ -1,7 +1,7 @@
 ##Untrrack folders
-venv/
+env/
 __pycache__/
 .idea/**
 temp/**
 **/.DS_Store
-NAP.egg-info/**
+cowin.egg-info/**

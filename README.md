@@ -13,7 +13,7 @@ For Linux:\
 https://www.youtube.com/watch?v=Br2xt6B57SA 
 
 
-##Installation of Cowin Finder:
+#Installation of Cowin Finder:
 clone the git repo:
 ```text
 git clone https://github.com/sameermohanty02/cowinFinder.git
