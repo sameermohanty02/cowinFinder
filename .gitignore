@@ -1,0 +1,7 @@
+##Untrrack folders
+env/
+__pycache__/
+.idea/**
+temp/**
+**/.DS_Store
+cowin.egg-info/**
