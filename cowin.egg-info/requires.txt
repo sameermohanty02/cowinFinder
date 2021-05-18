@@ -1,5 +1,0 @@
-Click
-pyyaml
-requests
-pandas
-beepy
